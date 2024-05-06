@@ -1,0 +1,167 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/about kreatr111.ai",
+    "baseName": "about kreatr111.ai",
+    "format": "AI",
+    "formatDescription": "AI",
+    "mimeType": "application/pdf",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 583,
+      "height": 583,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 72,
+      "y": 72
+    },
+    "printSize": {
+      "x": 8.09722,
+      "y": 8.09722
+    },
+    "units": "Undefined",
+    "type": "TrueColorAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 16,
+    "channelDepth": {
+      "alpha": 8,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 1359556,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 65535,
+        "mean": 31656.2,
+        "median": 49151.2,
+        "standardDeviation": 29814.4,
+        "kurtosis": -1.96557,
+        "skewness": 0.0579489,
+        "entropy": 0.448018
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 65535,
+        "mean": 32284.7,
+        "median": 0,
+        "standardDeviation": 32693.5,
+        "kurtosis": -1.99635,
+        "skewness": 0.0286594,
+        "entropy": 0.179673
+      },
+      "red": {
+        "min": 0,
+        "max": 65535,
+        "mean": 40146.2,
+        "median": 65535,
+        "standardDeviation": 30198.6,
+        "kurtosis": -1.74856,
+        "skewness": -0.46061,
+        "entropy": 0.493816
+      },
+      "green": {
+        "min": 0,
+        "max": 65535,
+        "mean": 38257,
+        "median": 65535,
+        "standardDeviation": 28980.9,
+        "kurtosis": -1.7402,
+        "skewness": -0.429403,
+        "entropy": 0.555271
+      },
+      "blue": {
+        "min": 0,
+        "max": 65535,
+        "mean": 15936.9,
+        "median": 65535,
+        "standardDeviation": 27384.6,
+        "kurtosis": -0.416096,
+        "skewness": 1.2543,
+        "entropy": 0.56331
+      }
+    },
+    "alpha": "#FFFFFFFFFFFF0000",
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 583,
+      "height": 583,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-04-30T06:36:26+00:00",
+      "date:modify": "2024-04-30T06:36:26+00:00",
+      "dc:format": "application/pdf",
+      "illustrator:CreatorSubTool": "AIRobin",
+      "illustrator:Type": "Document",
+      "pdf:HiResBoundingBox": "583x583+0+0",
+      "pdf:Producer": "Adobe PDF library 17.00",
+      "pdf:Version": "PDF-1.6",
+      "signature": "27bb2a22e5e7f0766740d4899a4d4e46c0ebce585ea222022bb2e5b205e5d562",
+      "xmp:CreateDate": "2024-04-30T12:05:42+05:30",
+      "xmp:CreatorTool": "Adobe Illustrator 28.4 (Macintosh)",
+      "xmp:MetadataDate": "2024-04-30T12:05:43+05:30",
+      "xmp:ModifyDate": "2024-04-30T12:05:43+05:30",
+      "xmpMM:DerivedFrom": "xmp.did:eb10da30-3cca-45f9-bf4f-e042691bf4a1",
+      "xmpMM:DocumentID": "xmp.did:96065452-39d2-4597-94f0-e401db2c8b52",
+      "xmpMM:InstanceID": "uuid:76be4df3-3b03-fa49-9aed-5a25bc11d873",
+      "xmpMM:OriginalDocumentID": "xmp.did:eb10da30-3cca-45f9-bf4f-e042691bf4a1",
+      "xmpMM:RenditionClass": "proof:pdf",
+      "xmpTPg:HasVisibleOverprint": "False",
+      "xmpTPg:HasVisibleTransparency": "True",
+      "xmpTPg:MaxPageSize": "Pixels",
+      "xmpTPg:NPages": "1"
+    },
+    "profiles": {
+      "xmp": {
+        "length": 39724
+      }
+    },
+    "tainted": false,
+    "filesize": "277193B",
+    "numberPixels": "339889",
+    "pixelsPerSecond": "12.6181MB",
+    "userTime": "0.030u",
+    "elapsedTime": "0:01.026",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]

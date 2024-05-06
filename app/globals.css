@@ -2,32 +2,71 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+@font-face {
+  font-family: 'vina-sans';
+  src: url('/assets/fonts/VinaSans-Regular.ttf') format('truetype');
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+@font-face {
+  font-family: 'Neue Montreal';
+  src: url('/assets/fonts/NeueMontreal-Regular.otf') format('truetype');
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.kreatr-heading{
+  font-family: 'vina-sans', sans-serif;
+}
+.footer-findus{
+  font-family: "Neue Montreal";
+  font-weight: bold;
+}
+.carousel,.emoji-content ,.footer-copyright .kreatr-speaker,.bulding-blocks,.error-page {
+  font-family: "Neue Montreal";
+
+}
+.button-store ,.footer-content{
+  font-family: "Neue Montreal";
+  font-weight:500;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+}
+h1{
+  margin: 0px;
+  padding: 0px;
+}
+
+.bg-img{
+  background: #fffced url(/assets/images/home_page/background-new.svg) no-repeat center/cover;
+  width: 100%;
+}
+
+.footer-ul li{
+  padding-bottom: 20px;
+  cursor: pointer;
+}
+.footer-section{
+  color:#2A2A2A;
+}
+
+.button-text{
+  color: black;
+}
+
+/* 404_page */
+
+.back-home{
+  border: 2px solid;
+  border-color: #DE033E;
+  color: #DE033E;
+  border-radius: 1.875rem;
+}
+.back-home:hover{
+  background-color: #DE033E;
+  color:#FFFDEE;
+  border-radius: 1.875rem;
 }
